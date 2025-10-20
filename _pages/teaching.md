@@ -11,9 +11,7 @@ nav_order: 5
 
 - Teaching Assistant
 
-  - **Statistical Inference**. Master's, Artificial Intelligence and Robotics, University of Tehran
-  - **Neural Networks**. Master's, Artificial Intelligence and Robotics, Iran University of Science and Technology
-  - **Advanced Programming**. Bachelor's, Computer Engineering
-  - **Operating Systems lab**. Bachelor's, Computer Engineering
+  - 2021 -**Statistical Inference**. Master's, Artificial Intelligence and Robotics, University of Tehran
+    
 
 
