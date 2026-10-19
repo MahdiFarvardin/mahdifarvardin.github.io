@@ -9,7 +9,7 @@ profile:
   image: 179.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="https://drive.google.com/file/d/1mf8GrohmXPTM_-jQUbzLn-eToUZEaN1l/view">CV ^_^</a> 
+    <a href="https://drive.google.com/file/d/11Qs1rRSYQalinjqwrS-cJCmwjjCWuwOO/view">CV ^_^</a> 
 
     
     
